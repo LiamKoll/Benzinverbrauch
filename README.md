@@ -24,6 +24,8 @@ Möchtest du sehen, wie das Programm funktioniert? Schau dir hier die kurze Revi
 - **Sofort-Auswertung:** Das Programm berechnet automatisch deinen Durchschnittsverbrauch auf 100 km und die entsprechenden Kosten in €.
 - **Verlauf und Historie:** Dank der integrierten Datenbank werden alle deine Tankvorgänge mit Datum gespeichert. Unter dem Bereich "Vorherige Werte" kannst du perfekt nachverfolgen, wie viel du in den letzten Monaten ausgegeben hast und ob du effizient unterwegs warst.
 
+---
+
 ### 🛠️ Schnellstart: So öffnest du das Programm
 
 Du brauchst keine Programmierkenntnisse oder zusätzliches Setup, um den Tracker zu nutzen. Folge einfach diesen Schritten:
@@ -38,6 +40,8 @@ Du brauchst keine Programmierkenntnisse oder zusätzliches Setup, um den Tracker
    Öffne die **`main.exe`** mit einem einfachen Doppelklick.
 
 > **🎉 Fertig!** Das Programm öffnet sich sofort und du kannst direkt anfangen, deine ersten Werte einzutragen. Eine Installation ist nicht erforderlich!
+
+---
 
 ## 💻 Für Entwickler (Technologien)
 
